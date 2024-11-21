@@ -127,6 +127,7 @@
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="HR.aspx" />
     <Content Include="PendingClaims.aspx" />
     <Content Include="ProgrammeCoordinator.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
@@ -239,6 +240,13 @@
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="HR.aspx.cs">
+      <DependentUpon>HR.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HR.aspx.designer.cs">
+      <DependentUpon>HR.aspx</DependentUpon>
     </Compile>
     <Compile Include="PendingClaims.aspx.cs">
       <DependentUpon>PendingClaims.aspx</DependentUpon>

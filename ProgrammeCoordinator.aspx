@@ -59,6 +59,7 @@
     <li><a href="AddClaims.aspx">Add Claims</a></li>
     <li><a href="ProgrammeCoordinator.aspx">Programme Coordinator</a></li>
     <li><a href="AcademicManager.aspx">Academic Manager</a></li>
+    <li><a href="HR.aspx">HR</a></li>
 </ul>
             <h2>Programme Coordinator</h2>
             <asp:GridView ID="gvClaims" runat="server" AutoGenerateColumns="False" OnRowCommand="gvClaims_RowCommand">

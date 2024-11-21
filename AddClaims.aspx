@@ -101,6 +101,7 @@
     <li><a href="AddClaims.aspx">Add Claims</a></li>
     <li><a href="ProgrammeCoordinator.aspx">Programme Coordinator</a></li>
     <li><a href="AcademicManager.aspx">Academic Manager</a></li>
+    <li><a href="HR.aspx">HR</a></li>
 </ul>
             <div class="form-row">
                 <label for="txtLectureName">Lecturer Name:</label>
@@ -215,4 +216,3 @@
     </form>
 </body>
 </html>
-

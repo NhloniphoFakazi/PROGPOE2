@@ -71,7 +71,7 @@ namespace PROGPOE
             newRow["ClaimAmount"] = claimAmount;
             newRow["AttachedDocuments"] = fileUploadSupportDoc.FileName; // Update with actual file upload handling
             newRow["Status"] = "Pending";
-           
+
 
             // Add the new row to the DataTable
             claimsTable.Rows.Add(newRow);
